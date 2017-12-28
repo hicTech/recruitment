@@ -1,4 +1,4 @@
-![Image](http://www.hictech.com/hostatiDaHicTech/loghiHT/black_200.png)
+![Image](http://www.hictech.com/hostatiDaHicTech/loghiHT/black_150.png)
 
 ## Sviluppatore Wordpress
 
