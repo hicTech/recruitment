@@ -7,7 +7,7 @@ Sono richieste conoscenze e possibilmente esperienze precedenti in sviluppo web 
 
 Successivamente ad un colloquio e un periodo di prova verrà proposto contratto di assunzione a tempo indeterminato.
 
-You can use the [editor on GitHub](https://github.com/hicTech/recruitment/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [candidatura](mailto:info@hictech.com) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
