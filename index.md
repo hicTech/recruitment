@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Recruitment
+
+Siamo alla ricerca di sviluppatori web per l'integrazione in team di ricerca e sviluppo.
+Sono richieste conoscenze e possibilmente esperienze precedenti in sviluppo web (html, css e javascript).
+
+**E' gradita la conoscenza/esperienza del CMS wordpress**
+
+Successivamente ad un colloquio e un periodo di prova verrà proposto contratto di assunzione a tempo indeterminato.
 
 You can use the [editor on GitHub](https://github.com/hicTech/recruitment/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
