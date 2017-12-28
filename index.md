@@ -2,12 +2,8 @@
 
 ## Recruitment
 
-Siamo alla ricerca di sviluppatori web per l'integrazione in team di ricerca e sviluppo su **Cosenza**.
-
+Siamo alla ricerca di sviluppatori **wordpress** per l'integrazione in team e sviluppo su **Cosenza**. /n
 Sono richieste conoscenze e possibilmente esperienze precedenti in sviluppo web (html, css e javascript).
-
-**E' gradita la conoscenza/esperienza del CMS wordpress**
-
 Successivamente ad un colloquio e un periodo di prova verrà proposto contratto di assunzione a tempo indeterminato.
 
 Inviaci la tua [candidatura](mailto:info@hictech.com). 
