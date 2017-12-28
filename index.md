@@ -1,3 +1,5 @@
+![Image](http://www.hictech.com/hostatiDaHicTech/loghiHT/black_200.png)
+
 ## Recruitment
 
 Siamo alla ricerca di sviluppatori web per l'integrazione in team di ricerca e sviluppo.
