@@ -2,7 +2,7 @@
 
 ## Sviluppatore Wordpress
 
-Siamo alla ricerca di sviluppatori **wordpress** per l'integrazione in team di sviluppo su **Cosenza**.
+[Hictech](tttp://hictech.com) alla ricerca di sviluppatori **wordpress** per l'integrazione in team di sviluppo su **Cosenza**.
 
 Sono richieste conoscenze e possibilmente esperienze precedenti in sviluppo web (html, css e javascript).
 
