@@ -2,7 +2,7 @@
 
 ## Recruitment
 
-Siamo alla ricerca di sviluppatori web per l'integrazione in team di ricerca e sviluppo.
+Siamo alla ricerca di sviluppatori web per l'integrazione in team di ricerca e sviluppo su **Cosenza**.
 Sono richieste conoscenze e possibilmente esperienze precedenti in sviluppo web (html, css e javascript).
 
 **E' gradita la conoscenza/esperienza del CMS wordpress**
